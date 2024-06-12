@@ -1,0 +1,6 @@
+@ReactViteApp.Server_HostAddress = http://localhost:5087
+
+GET {{ReactViteApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

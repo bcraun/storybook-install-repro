@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactViteApp.Server", "ReactViteApp.Server\ReactViteApp.Server.csproj", "{4D01C9CA-1F70-4750-A77A-3B7C3C6366EE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactviteapp.client", "reactviteapp.client\reactviteapp.client.esproj", "{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D01C9CA-1F70-4750-A77A-3B7C3C6366EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D01C9CA-1F70-4750-A77A-3B7C3C6366EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D01C9CA-1F70-4750-A77A-3B7C3C6366EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D01C9CA-1F70-4750-A77A-3B7C3C6366EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB5D66D-EE41-4A3B-AE8F-5279C0EB3323}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D41913-0DA7-4B2B-8F12-28F0F6A4E071}
+	EndGlobalSection
+EndGlobal
